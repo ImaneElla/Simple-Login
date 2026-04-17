@@ -1,5 +1,6 @@
 # Simple Login System (Java Swing) 🚀
-![Login Page Preview](loginPage.png)
+
+
 A clean and functional Java GUI application built using **Swing**. This project demonstrates the core principles of Object-Oriented Programming (OOP) and Event Handling in Java.
 
 > [!IMPORTANT]
@@ -16,7 +17,9 @@ A clean and functional Java GUI application built using **Swing**. This project 
 2. **IdAndPasswords.java:** The data layer (currently using local storage).
 3. **LoginPage.java:** The main UI logic and event handling.
 4. **WelcomePage.java:** The dashboard shown upon successful login.
-
+   ---
+   ![Login Page Preview](LoginPage.png)
+---
 ## 🚀 How to Run
 1. Clone the repository.
 2. Open the project in VS Code or any Java IDE.
