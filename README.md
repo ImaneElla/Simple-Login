@@ -16,7 +16,7 @@ A clean and functional Java GUI application built using **Swing**. This project 
 1. **Main.java:** The entry point that launches the application.
 2. **IdAndPasswords.java:** The data layer (currently using local storage).
 3. **LoginPage.java:** The main UI logic and event handling.
-4. **WelcomePage.java:** The dashboard shown upon successful login.
+4. **WelcomePage.java:** The dashboard shown upon successful login. </br>
    ---
    ![Login Page Preview](LoginPage.png)
 ---
