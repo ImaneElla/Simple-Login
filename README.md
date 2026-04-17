@@ -17,21 +17,25 @@ A clean and functional Java GUI application built using **Swing**. This project 
 2. **IdAndPasswords.java:** The data layer (currently using local storage).
 3. **LoginPage.java:** The main UI logic and event handling.
 4. **WelcomePage.java:** The dashboard shown upon successful login. </br>
+
    ---
    ![Login Page Preview](LoginPage.png)
 ---
+
 ## 🚀 How to Run
 1. Clone the repository.
 2. Open the project in VS Code or any Java IDE.
 3. Run `Main.java`.
 4. Use the default credentials found in `IdAndPasswords.java` (e.g., imane/dev2026).
 
-## 👩‍💻 Developer
-**Imane** - Software Development Student
-*Focused on creating efficient and user-friendly applications.*
 
 ## 📝 Future Plans
 - [ ] Implement a **Database** (MySQL/PostgreSQL) for persistent user storage.
 - [ ] Add **Password Hashing** (bcrypt) for enhanced security.
 - [ ] Create an **Admin Panel** for user management.
 - [ ] Add **Email Verification** for new user registration.
+
+## 👩‍💻 Developer
+**Imane** - Software Development Student
+*Focused on creating efficient and user-friendly applications.*
+
