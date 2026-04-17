@@ -1,5 +1,5 @@
 # Simple Login System (Java Swing) 🚀
-![loginPage.java](loginPage.png)
+![loginPage.png](loginPage.png)
 
 A clean and functional Java GUI application built using **Swing**. This project demonstrates the core principles of Object-Oriented Programming (OOP) and Event Handling in Java.
 
