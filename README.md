@@ -37,5 +37,4 @@ A clean and functional Java GUI application built using **Swing**. This project 
 
 ## 👩‍💻 Developer
 **Imane** - Software Development Student
-*Focused on creating efficient and user-friendly applications.*
 
