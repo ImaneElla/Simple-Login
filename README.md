@@ -4,7 +4,7 @@
 A clean and functional Java GUI application built using **Swing**. This project demonstrates the core principles of Object-Oriented Programming (OOP) and Event Handling in Java.
 
 > [!IMPORTANT]
-> **Project Speedrun:** This entire project was conceptualized, designed, and built in **just one day!**
+> **Project Speedrun:** This entire project was built in **just one day!**
 
 ## 🛠 Features
 - **Local Authentication:** Uses a secure `HashMap` structure for user validation.
