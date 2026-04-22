@@ -36,5 +36,6 @@ A clean and functional Java GUI application built using **Swing**. This project 
 - [ ] Add **Email Verification** for new user registration.
 
 ## 👩‍💻 Developer
+
 **Imane** - Software Development Student
 
